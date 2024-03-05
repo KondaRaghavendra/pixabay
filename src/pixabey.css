@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    height: 150px;
+    background-color: black;
+    display: flex;
+    
+}
+.nav1{
+    text-align: center;
+   
+}
+input{
+    
+    width: 250%;
+    border-radius: 10px; 
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+.nav2{
+        font-size: x-large;
+        margin-left: 500px;
+        padding: 10px;
+        margin-top: 20px;
+}
+a{
+    padding: 30px;
+    color: chartreuse;
+}
+.nav2 a :hover{
+    font-style: italic;
+    color: brown;
+}
+h1{
+    font-style: italic;
+    color: aqua;
+}
